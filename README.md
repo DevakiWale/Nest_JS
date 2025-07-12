@@ -53,7 +53,6 @@ npm install
 
 ```env
 DATABASE_URL="postgresql://user:password@localhost:5432/yourdbname"
-JWT_SECRET="your_jwt_secret"
 ```
 
 4. Run Prisma migration:
