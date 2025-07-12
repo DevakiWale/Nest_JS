@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 markdown
 # NestJS
@@ -126,9 +124,7 @@ src/
 * Prisma ORM
 * PostgreSQL
 * class-validator (Validation)
-
 ---
-
 =======
 # Nest_JS
->>>>>>> f85b4048a3c1c6f9fd3d2befc4e23d9cc3af159e
+
